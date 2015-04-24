@@ -13,5 +13,5 @@
 
 5. run_analysis()
 
-6. output in working directory: HAR_tidy_dataset.txt 
+6. tidy data set output in working directory: HAR_tidy_dataset.txt 
 
