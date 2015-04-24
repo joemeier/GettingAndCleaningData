@@ -3,6 +3,7 @@
 ## Steps:
 
 1. download and extract the file in "data directory":
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 2. set the working directory [setwd() function] to "data directory"
