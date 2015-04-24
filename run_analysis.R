@@ -57,8 +57,6 @@ dtFeat <- dtFeat[grepl("mean\\(\\)|std\\(\\)", featureName)]
 
 # (3.3) convert column numbers to a vector of variable names matching columns in dt:
 dtFeat$featureCode <- dtFeat[, paste0("V", featureNum)]
-#head(dtFeat)
-#dtFeat$featureCode
 
 # (3.4) subset these variables using variable names:
 select <- c(key(dt), dtFeat$featureCode)
