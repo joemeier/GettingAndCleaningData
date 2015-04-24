@@ -11,5 +11,7 @@
 
 4. start RStudio, open and source run_analysis.R
 
-5. output in working directory: HAR_tidy_dataset.txt 
+5. run_analysis()
+
+6. output in working directory: HAR_tidy_dataset.txt 
 
