@@ -2,8 +2,8 @@
 ##
 ##variable name 		description
 ##
-##subject           subject id (range from 1 to 30)
-##activity 					activity name
+##subject:          subject id (range from 1 to 30)
+##activity:					activity name
 ##featDomain        feature: time domain signal or frequency domain signal (Time or Freq)
 ##featInstrument 	  feature: Measuring instrument (Accelerometer or Gyroscope)
 ##featAcceleration 	feature: Acceleration signal (Body or Gravity)
